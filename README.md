@@ -1,4 +1,4 @@
-# project2-teamLAN
+# Project 2 - Team LAN
 ## Repository Contents 
 
 ## SRC
