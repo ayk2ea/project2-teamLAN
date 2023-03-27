@@ -1,1 +1,4 @@
 # Figures Descriptions
+Figure 1 - This is an exploratory figure made while establishing our model. In this plot, we confirm that the model correctly associates images with a disease progression label. Nine images were randomly selected and outputted with a label of the category it belongs to, confirming successful upload.
+
+Figure 2 - This figure illustrates the performance of the model on the training and validation datasets. On the left side, there is a plot of accuracy versus epoch. As the epoch increases as does the accuracy of both the training and validation. The validation set is slightly beneath the training accuracy, reflecting the model working with novel images. The second plot contains curves for training and validation loss, with both of them decreasing each epoch. Training and validation loss signify how well the model fits the training data and new data, respectively.
