@@ -5,9 +5,11 @@
 ### Installing/Building the Code
 Our approach will be a Convolutional neural network algorithm (CNN). To build the code, we're primarily utilizing the Keras API running on TensorFlow. 
 
-The following packages will need to be installed in order to build the code: keras, tensorflow, plotly, htmltools, caret, NbClust, and dplyr.
+The following packages will need to be installed in Python in order to build the code: Keras, Tensorflow, Pillow, Mathplotlib and Pandas.
 
 ### Code Usage
+
+Using the code above, found in the folder SRC, run the file SRC/Project 2 MI3 Image Classification.ipynb after importing the following: tensorflow, keras, layers, Sequential, PIL, os, pathlib, matplotlib.pyplot, and numpy. The folder path will have to be changed in the code after you download the dataset from Kaggle, which can be found in our DATA folder.
 
 
 ## Data
